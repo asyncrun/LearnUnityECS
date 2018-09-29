@@ -1,6 +1,8 @@
 # LearnUnityECS
 LearnUnityECS
 
+http://infalliblecode.com/
+
 part 1 configured the editor and 
 imported the Entities package, which
 contained all the classes need to
