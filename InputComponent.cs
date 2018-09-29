@@ -1,6 +1,6 @@
 Using UnityEngine;
 
-public class InputComponent
+public class InputComponent : MonoBehaviour
 {
 	public float Horizontal;
 	public float Vertical;
